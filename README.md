@@ -1,7 +1,11 @@
 # switchcases-in-python-
 dekh bhai bada simple hai
+look bro, this is very simple
+
 switch cases is new feature introduced to python (java mein pehle se thi)
-isme na, u specify diff cases after defining a function
+(existed java before itself)
+
+isme na,in this, u specify diff cases after defining a function
 i've took 1,2,3 & _ cases to keep it short and crsip
 u take input from user and use it in ur defined function
 the input is then equated to the cases 
